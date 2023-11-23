@@ -1,0 +1,37 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/sugimoto/ros2_ws/install/realsense2_camera/include/**",
+        "/home/sugimoto/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/sugimoto/ros2_ws/install/om_modbus_master/include/**",
+        "/home/sugimoto/ros2_ws/install/om_msgs/include/**",
+        "/home/sugimoto/turtlebot3_ws/install/turtlebot3_msgs/include/**",
+        "/home/sugimoto/turtlebot3_ws/install/realsense2_camera/include/**",
+        "/home/sugimoto/turtlebot3_ws/install/realsense2_camera_msgs/include/**",
+        "/home/sugimoto/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/sugimoto/turtlebot3_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/sugimoto/ros2_ws/src/msd700_description/include/**",
+        "/home/sugimoto/ros2_ws/src/msd_remote/include/**",
+        "/home/sugimoto/ros2_ws/src/om_modbus_master/include/**",
+        "/home/sugimoto/ros2_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/sugimoto/ros2_ws/src/ros2serial_arduino/include/**",
+        "/home/sugimoto/ros2_ws/src/rplidar_ros/include/**",
+        "/home/sugimoto/ros2_ws/src/sat_bot_description/include/**",
+        "/home/sugimoto/ros2_ws/src/tutorial/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
